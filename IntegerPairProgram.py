@@ -6,3 +6,4 @@ for i in range (0, len(myList)):
         if int(myList[i]+ myList[j]) == x:
             if int(myList[i]) != int(myList[j]):
                 print(myList[i], myList[j])
+#Jenny Belson
